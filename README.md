@@ -49,6 +49,7 @@ display my ux/ui ablites
 
 **Sneaker Collection 2.0** 
 Upgrading the original sneaker collection to a react.js front end and a rails backend
+<li/> 
 Users will be able to add, delete, and upgrade shoes photos, description, value (retail and resale), date purchased if selling or looking to buy,
 message system or forum  for users to connect and discuss their rare collections. 
 <!--
