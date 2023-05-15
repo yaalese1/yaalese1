@@ -39,8 +39,11 @@ Innovative solution for sneaker collectors, resellers or individuals looking to 
 **Personl Protfolio**  
 <li/> 
 display projects 
+<li/> 
 form for client inquiring for services 
+<li/> 
 contact info 
+<li/> 
 display my ux/ui ablites 
 
 
