@@ -35,14 +35,14 @@ Innovative solution for sneaker collectors, resellers or individuals looking to 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/yetundealese1/) [![image](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yaalese1@gmail.com) 
 
 
-In development 🛠 ⚙️
-personl protfolio  
+##In development 🛠 ⚙️
+**Personl Protfolio**  
 display projects 
 form for client inquiring for services 
 contact info 
 display my ux/ui ablites 
 
-Sneaker Collection 2.0 
+**Sneaker Collection 2.0** 
 Upgrading the original sneaker collection to a react.js front end and a rails backend
 Users will be able to add, delete, and upgrade shoes photos, description, value (retail and resale), date purchased if selling or looking to buy,
 message system or forum  for users to connect and discuss their rare collections. 
