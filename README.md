@@ -6,7 +6,10 @@ When not coding you can find my in the NYC area indulging in various activites s
 
 ## Projects
 
-**Pet & Date**
+**Pet & Date** 🐾 🦴 
+Domestic Pet lending and borrowering dating app.
+[Github Frontend](https://github.com/yaalese1/pet-date_frontend)  | [Github Backend](https://github.com/yaalese1/pet-date_backend) | [Demo](https://www.loom.com/share/8bea74f88e864ac3865dcc7a03eec389)
+
 
 <!--
 **yaalese1/yaalese1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
