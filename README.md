@@ -37,10 +37,12 @@ Innovative solution for sneaker collectors, resellers or individuals looking to 
 
 ## In development 🛠 ⚙️
 **Personl Protfolio**  
-<li display projects 
+<li 
+display projects 
 form for client inquiring for services 
 contact info 
-display my ux/ui ablites />
+display my ux/ui ablites 
+ />
 
 **Sneaker Collection 2.0** 
 Upgrading the original sneaker collection to a react.js front end and a rails backend
