@@ -37,8 +37,8 @@ Innovative solution for sneaker collectors, resellers or individuals looking to 
 
 ## In development 🛠 ⚙️
 **Personl Protfolio**  
-<li 
-display projects />
+<li/> 
+display projects 
 form for client inquiring for services 
 contact info 
 display my ux/ui ablites 
