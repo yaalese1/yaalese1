@@ -15,7 +15,7 @@ Domestic Pet lending and borrowering dating app.
 [Github Frontend](https://github.com/yaalese1/pet-date_frontend)  | [Github Backend](https://github.com/yaalese1/pet-date_backend) | [Demo](https://www.loom.com/share/8bea74f88e864ac3865dcc7a03eec389)
 
 **Chill-&-Flix** 🎥 🍿
-(Netflix Code)
+(Netflix Clone
 Movie streaming netflix clone where users can watch trailers leave comments, reviews, and ratings. 
 
 [Github Frontend](https://github.com/yaalese1/Netflix_clone_frontend) | [Github Backend](https://github.com/yaalese1/phase-3-sinatra-react-project) | [Demo](https://www.loom.com/share/355cd8b9587c44d39f156b7bb80773db)
@@ -33,6 +33,19 @@ Innovative solution for sneaker collectors, resellers or individuals looking to 
 
 ## Where to find me 📟 🔎
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/yetundealese1/) [![image](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yaalese1@gmail.com) 
+
+
+In development 🛠 ⚙️
+personl protfolio  
+display projects 
+form for client inquiring for services 
+contact info 
+display my ux/ui ablites 
+
+Sneaker Collection 2.0 
+Upgrading the original sneaker collection to a react.js front end and a rails backend
+Users will be able to add, delete, and upgrade shoes photos, description, value (retail and resale), date purchased if selling or looking to buy,
+message system or forum  for users to connect and discuss their rare collections. 
 <!--
 **yaalese1/yaalese1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
