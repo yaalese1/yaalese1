@@ -55,6 +55,7 @@ display my ux/ui ablites
 
 
 **Sneaker Collection 2.0** 
+<li/>
 will be written in <img height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> and <img height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />  <img height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" />
 <li/>
 Upgrading the original sneaker collection to a React.js ,typscript  and a rails backend
