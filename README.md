@@ -36,7 +36,9 @@ Innovative solution for sneaker collectors, resellers or individuals looking to 
 
 
 ## In development 🛠 ⚙️
-**Personl Protfolio**  
+**Personl Protfolio** 
+<li/>
+will be writtren in <img height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />  and <img height="40px" width="40px" src= "https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" /> <img height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" />
 <li/> 
 display projects 
 <li/> 
@@ -48,7 +50,9 @@ display my ux/ui ablites
 
 
 **Sneaker Collection 2.0** 
-Upgrading the original sneaker collection to a react.js front end and a rails backend
+will be written in <img height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> and <img height="40px" width="40px" src= "https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" />
+<li/>
+Upgrading the original sneaker collection to a React.js front end and a rails backend
 <li/> 
 Users will be able to add, delete, and upgrade shoes photos, description, value (retail and resale), date purchased if selling or looking to buy,
 message system or forum  for users to connect and discuss their rare collections. 
