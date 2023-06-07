@@ -35,10 +35,15 @@ Innovative solution for sneaker collectors, resellers or individuals looking to 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/yetundealese1/) [![image](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yaalese1@gmail.com) 
 
 
+
+## 🌱 I’m currently learning ...
+<img height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+
+
 ## In development 🛠 ⚙️
 **Personl Protfolio** 
 <li/>
-will be writtren in <img height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />  and <img height="40px" width="40px" src= "https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" /> <img height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" />
+will be writtren in <img height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />  and <img height="40px" width="40px"  src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> 
 <li/> 
 display projects 
 <li/> 
@@ -50,7 +55,7 @@ display my ux/ui ablites
 
 
 **Sneaker Collection 2.0** 
-will be written in <img height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> and <img height="40px" width="40px" src= "https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" />
+will be written in <img height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> and <img height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />  <img height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" />
 <li/>
 Upgrading the original sneaker collection to a React.js front end and a rails backend
 <li/> 
