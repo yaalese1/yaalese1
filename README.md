@@ -43,7 +43,7 @@ Innovative solution for sneaker collectors, resellers or individuals looking to 
 ## In development 🛠 ⚙️ 
 **Personl Protfolio** 
 <li/>
-Repository  Link
+Repository  Link:  https://github.com/yaalese1/Portfolio
 <li/>
 will be writtren in <img height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />  and <img height="40px" width="40px"  src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> 
 <li/> 
