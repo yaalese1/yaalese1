@@ -40,8 +40,10 @@ Innovative solution for sneaker collectors, resellers or individuals looking to 
 <img height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 
 
-## In development 🛠 ⚙️
+## In development 🛠 ⚙️ 
 **Personl Protfolio** 
+<li/>
+Repository  Link
 <li/>
 will be writtren in <img height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />  and <img height="40px" width="40px"  src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> 
 <li/> 
