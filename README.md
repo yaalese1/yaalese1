@@ -38,6 +38,7 @@ Innovative solution for sneaker collectors, resellers or individuals looking to 
 
 ## 🌱 I’m currently learning ...
 <img height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+<img height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 
 
 ## In development 🛠 ⚙️ 
